@@ -18,18 +18,28 @@ public class Start {
         System.out.println("The B value is " + b);
         System.out.println("The new B value is " + ++b);
 
+        System.out.println("--------------------------------------");
+
+        System.out.println("B is an odd number?");
+
         if (b % 2 != 0) {
-            System.out.println("B is an odd number");
+            System.out.println("True");
         } else {
-            System.out.println("B is an even number");
+            System.out.println("False");
         }
 
-        if ((b * (b + 1)) % 3 == 0) {
-            System.out.println("The number is a multiple of 3");
-        } else {
-            System.out.println("The number isn't a multiple of 3");
-        }
         System.out.println("----------------------------------------");
+
+        System.out.println("The result is a multiple of 3?");
+
+        if ((b * (b + 1)) % 3 == 0) {
+            System.out.println("True");
+        } else {
+            System.out.println("False");
+        }
+
+        System.out.println("----------------------------------------");
+
     }
 }
 
