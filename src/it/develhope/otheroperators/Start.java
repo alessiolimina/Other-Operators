@@ -24,7 +24,7 @@ public class Start {
             System.out.println("B is an even number");
         }
 
-        if (b * (b + 1) % 3 == 0) {
+        if ((b * (b + 1)) % 3 == 0) {
             System.out.println("The number is a multiple of 3");
         } else {
             System.out.println("The number isn't a multiple of 3");

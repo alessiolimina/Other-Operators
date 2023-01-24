@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6361228a-8e59-4dd9-8630-68523f571792" name="Changes" comment="Exercise: Other operators">
-      <change beforePath="$PROJECT_DIR$/src/it/develhope/otheroperators/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/develhope/otheroperators/Start.java" afterDir="false" />
-    </list>
+    <list default="true" id="6361228a-8e59-4dd9-8630-68523f571792" name="Changes" comment="Exercise: Other operators" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +48,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674573482214</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercise: Other operators">
+      <created>1674573907844</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674573907844</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
